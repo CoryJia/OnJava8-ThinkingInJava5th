@@ -1,4 +1,4 @@
-// functional/Closure5.java
+package functional;// functional/Closure5.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
@@ -10,6 +10,8 @@ public class Closure5 {
     int i = 0;
     i++;
     x++;
-    return () -> x + i;
+    int finalX = x;
+    int finalI = i;
+    return () -> finalX + finalI;
   }
 }
