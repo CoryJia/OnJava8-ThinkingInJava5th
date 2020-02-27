@@ -10,6 +10,8 @@ public class Closure5 {
     int i = 0;
     i++;
     x++;
+//    return () -> x + i;
+
     int finalX = x;
     int finalI = i;
     return () -> finalX + finalI;
