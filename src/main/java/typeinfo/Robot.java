@@ -1,4 +1,4 @@
-// typeinfo/Robot.java
+package typeinfo;// typeinfo/Robot.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
@@ -7,7 +7,7 @@ import java.util.*;
 
 public interface Robot {
   String name();
-  String model();
+  String model();/*
   List<Operation> operations();
   static void test(Robot r) {
     if(r instanceof Null)
@@ -17,6 +17,6 @@ public interface Robot {
     for(Operation operation : r.operations()) {
       System.out.println(operation.description.get());
       operation.command.run();
-    }
-  }
+    }*/
+//  }
 }

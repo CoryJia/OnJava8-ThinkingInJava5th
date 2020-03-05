@@ -1,4 +1,4 @@
-// typeinfo/NullRobot.java
+package typeinfo;// typeinfo/NullRobot.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
@@ -6,6 +6,7 @@
 import java.lang.reflect.*;
 import java.util.*;
 import java.util.stream.*;
+
 import onjava.*;
 
 class NullRobotProxyHandler
@@ -20,10 +21,10 @@ implements InvocationHandler {
     public String name() { return nullName; }
     @Override
     public String model() { return nullName; }
-    @Override
+/*    @Override
     public List<Operation> operations() {
       return Collections.emptyList();
-    }
+    }*/
   }
   @Override
   public Object
@@ -42,10 +43,10 @@ public class NullRobot {
       new NullRobotProxyHandler(type));
   }
   public static void main(String[] args) {
-    Stream.of(
+/*    Stream.of(
       new SnowRemovalRobot("SnowBee"),
       newNullRobot(SnowRemovalRobot.class)
-    ).forEach(Robot::test);
+    ).forEach(Robot::test);*/
   }
 }
 /* Output:

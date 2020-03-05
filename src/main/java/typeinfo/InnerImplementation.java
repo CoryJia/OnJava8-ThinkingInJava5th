@@ -1,4 +1,4 @@
-// typeinfo/InnerImplementation.java
+package typeinfo;// typeinfo/InnerImplementation.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
@@ -33,10 +33,10 @@ public class InnerImplementation {
     a.f();
     System.out.println(a.getClass().getName());
     // Reflection still gets into the private class:
-    HiddenImplementation.callHiddenMethod(a, "g");
+ /*   HiddenImplementation.callHiddenMethod(a, "g");
     HiddenImplementation.callHiddenMethod(a, "u");
     HiddenImplementation.callHiddenMethod(a, "v");
-    HiddenImplementation.callHiddenMethod(a, "w");
+    HiddenImplementation.callHiddenMethod(a, "w");*/
   }
 }
 /* Output:
