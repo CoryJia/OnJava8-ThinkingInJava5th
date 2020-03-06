@@ -3,7 +3,7 @@ package ch20generics;// generics/CheckedList.java
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Using Collection.checkedList()
-import typeinfo.pets.*;
+import ch19typeinfo.pets.*;
 import java.util.*;
 
 public class CheckedList {

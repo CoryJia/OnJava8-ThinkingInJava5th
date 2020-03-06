@@ -5,7 +5,7 @@
 // {java collections.MapOfList}
 package ch12collections;
 
-import typeinfo.pets.*;
+import ch19typeinfo.pets.*;
 
 import java.util.*;
 
