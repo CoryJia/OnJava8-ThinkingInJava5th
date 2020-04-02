@@ -1,4 +1,4 @@
-// innerclasses/InheritInner.java
+package ch11innerclasses;// innerclasses/ch11innerclasses.InheritInner.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
@@ -9,7 +9,7 @@ class WithInner {
 }
 
 public class InheritInner extends WithInner.Inner {
-  //- InheritInner() {} // Won't compile
+  //- ch11innerclasses.InheritInner() {} // Won't compile
   InheritInner(WithInner wi) {
     wi.super();
   }

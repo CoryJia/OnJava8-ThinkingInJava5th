@@ -1,4 +1,4 @@
-// innerclasses/Parcel1.java
+package ch11innerclasses;// innerclasses/ch11innerclasses.Parcel1.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
@@ -17,7 +17,7 @@ public class Parcel1 {
     String readLabel() { return label; }
   }
   // Using inner classes looks just like
-  // using any other class, within Parcel1:
+  // using any other class, within ch11innerclasses.Parcel1:
   public void ship(String dest) {
     Contents c = new Contents();
     Destination d = new Destination(dest);

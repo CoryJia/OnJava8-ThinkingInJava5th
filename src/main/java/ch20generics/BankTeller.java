@@ -1,10 +1,12 @@
-// generics/BankTeller.java
+package ch20generics;// generics/BankTeller.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // A very simple bank teller simulation
-import java.util.*;
-import onjava.*;
+import onjava.Suppliers;
+
+import java.util.ArrayList;
+import java.util.List;
 
 class Customer {
   private static long counter = 1;

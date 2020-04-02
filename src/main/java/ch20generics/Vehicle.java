@@ -1,3 +1,5 @@
+package ch20generics;
+
 // generics/Vehicle.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.

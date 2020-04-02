@@ -1,4 +1,4 @@
-// generics/Holder1.java
+package ch20generics;// generics/Holder1.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.

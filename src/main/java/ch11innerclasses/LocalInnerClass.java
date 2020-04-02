@@ -1,4 +1,4 @@
-// innerclasses/LocalInnerClass.java
+package ch11innerclasses;// innerclasses/ch11innerclasses.LocalInnerClass.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
@@ -31,9 +31,9 @@ public class LocalInnerClass {
       // Anonymous inner class cannot have a named
       // constructor, only an instance initializer:
       {
-        System.out.println("Counter()");
+        System.out.println("ch06housekeeping.Counter()");
       }
-      @Override
+//      @Override
       public int next() {
         System.out.print(name); // Access local final
         return count++;
@@ -53,7 +53,7 @@ public class LocalInnerClass {
 }
 /* Output:
 LocalCounter()
-Counter()
+ch06housekeeping.Counter()
 Local inner 0
 Local inner 1
 Local inner 2

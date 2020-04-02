@@ -1,8 +1,8 @@
-// innerclasses/Parcel7b.java
+package ch11innerclasses;// innerclasses/ch11innerclasses.Parcel7b.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
-// Expanded version of Parcel7.java
+// Expanded version of ch11innerclasses.Parcel7.java
 
 public class Parcel7b {
   class MyContents implements Contents {

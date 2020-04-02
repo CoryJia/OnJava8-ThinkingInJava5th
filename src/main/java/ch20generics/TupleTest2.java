@@ -1,9 +1,15 @@
-// generics/TupleTest2.java
+package ch20generics;// generics/TupleTest2.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
-import onjava.*;
-import static onjava.Tuple.*;
+
+import ch09polymorphism.Amphibian;
+import onjava.Tuple2;
+import onjava.Tuple3;
+import onjava.Tuple4;
+import onjava.Tuple5;
+
+import static onjava.Tuple.tuple;
 
 public class TupleTest2 {
   static Tuple2<String, Integer> f() {

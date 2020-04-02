@@ -1,0 +1,7 @@
+/* Output:
+Using ch10interfaces.Processor ch10interfaces.Upcase
+IF SHE WEIGHS THE SAME AS ch06housekeeping.A DUCK, SHE'S MADE OF WOOD
+Using ch10interfaces.Processor ch10interfaces.Downcase
+if she weighs the same as a duck, she's made of wood
+Using ch10interfaces.Processor ch10interfaces.Splitter
+[If, she, weighs, the, same, as, a, duck,, she's, made, of, wood]

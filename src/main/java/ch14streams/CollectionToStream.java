@@ -16,6 +16,7 @@ public class CollectionToStream {
 
         Set<String> w = new HashSet<>(Arrays.asList(
                 "It's a wonderful day for pie!".split(" ")));
+        System.out.println(w);
         w.stream()
                 .map(x -> x + " ")
                 .forEach(System.out::print);

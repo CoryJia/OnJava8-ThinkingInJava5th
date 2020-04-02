@@ -1,0 +1,4 @@
+/* Output:
+Wind.play() MIDDLE_C
+Stringed.play() MIDDLE_C
+Brass.play() MIDDLE_C

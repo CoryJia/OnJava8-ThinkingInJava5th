@@ -11,7 +11,7 @@ public class UniqueWordsAlphabetic {
     public static void
     main(String[] args) throws Exception {
         List<String> lines = Files.readAllLines(
-                Paths.get("src/main/java/collections/SetOperations.java"));
+                Paths.get("SetOperations.java"));
         Set<String> words =
                 new TreeSet<>(String.CASE_INSENSITIVE_ORDER);
         for (String line : lines)

@@ -2,7 +2,7 @@ package ch19typeinfo;// typeinfo/RegisteredFactories.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
-// Registering Factories in the base class
+// Registering ch10interfaces.Factories in the base class
 import java.util.*;
 import java.util.function.*;
 import java.util.stream.*;

@@ -1,7 +1,7 @@
 /**
  * @author : Cory Jia on 2/15/20
  */
-// housekeeping/OverloadingVarargs.java
+// housekeeping/ch06housekeeping.OverloadingVarargs.java
 
 public class OverloadingVarargs {
     static void f(Character... args) {
@@ -34,7 +34,7 @@ public class OverloadingVarargs {
     }
 }
 
-//class OverloadingVarargs2 {
+//class ch06housekeeping.OverloadingVarargs2 {
 //    static void f(float i, Character... args) {
 //        System.out.println("first");
 //    }

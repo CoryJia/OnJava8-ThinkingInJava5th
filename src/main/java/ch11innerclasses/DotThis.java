@@ -1,11 +1,11 @@
-// innerclasses/DotThis.java
+package ch11innerclasses;// innerclasses/ch11innerclasses.DotThis.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Accessing the outer-class object
 
 public class DotThis {
-  void f() { System.out.println("DotThis.f()"); }
+  void f() { System.out.println("ch11innerclasses.DotThis.f()"); }
   public class Inner {
     public DotThis outer() {
       return DotThis.this;
@@ -20,5 +20,5 @@ public class DotThis {
   }
 }
 /* Output:
-DotThis.f()
+ch11innerclasses.DotThis.f()
 */

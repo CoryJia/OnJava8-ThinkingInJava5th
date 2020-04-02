@@ -1,4 +1,4 @@
-// innerclasses/BigEgg.java
+package ch11innerclasses;// innerclasses/ch11innerclasses.BigEgg.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
@@ -20,7 +20,7 @@ class Egg {
 public class BigEgg extends Egg {
   public class Yolk {
     public Yolk() {
-      System.out.println("BigEgg.Yolk()");
+      System.out.println("ch11innerclasses.BigEgg.Yolk()");
     }
   }
   public static void main(String[] args) {

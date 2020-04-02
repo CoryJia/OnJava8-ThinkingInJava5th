@@ -2,7 +2,6 @@ package ch13functional;// functional/Strategize.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
-
 interface Strategy {
     String approach(String msg);
 }
@@ -57,6 +56,7 @@ public class Strategize {
         }
     }
 }
+
 /* Output:
 hello there?
 HELLO THERE!

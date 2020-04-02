@@ -5,7 +5,7 @@ package ch13functional;// functional/MultiUnbound.java
 // Unbound methods with multiple arguments
 
 class This {
-    void two(int i, double d) {
+   void two(int i, double d) {
         System.out.println(i + "," + d);
     }
 

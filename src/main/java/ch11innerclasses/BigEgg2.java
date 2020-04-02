@@ -1,4 +1,4 @@
-// innerclasses/BigEgg2.java
+package ch11innerclasses;// innerclasses/ch11innerclasses.BigEgg2.java
 // (c)2017 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
@@ -22,11 +22,11 @@ class Egg2 {
 public class BigEgg2 extends Egg2 {
   public class Yolk extends Egg2.Yolk {
     public Yolk() {
-      System.out.println("BigEgg2.Yolk()");
+      System.out.println("ch11innerclasses.BigEgg2.Yolk()");
     }
     @Override
     public void f() {
-      System.out.println("BigEgg2.Yolk.f()");
+      System.out.println("ch11innerclasses.BigEgg2.Yolk.f()");
     }
   }
   public BigEgg2() { insertYolk(new Yolk()); }
@@ -39,6 +39,6 @@ public class BigEgg2 extends Egg2 {
 Egg2.Yolk()
 New Egg2()
 Egg2.Yolk()
-BigEgg2.Yolk()
-BigEgg2.Yolk.f()
+ch11innerclasses.BigEgg2.Yolk()
+ch11innerclasses.BigEgg2.Yolk.f()
 */
