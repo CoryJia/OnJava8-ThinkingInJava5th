@@ -1,0 +1,39 @@
+/* Output:
+Loading ch25patterns.trash.Glass
+Loading ch25patterns.trash.Paper
+Loading ch25patterns.trash.Aluminum
+Loading ch25patterns.trash.Cardboard
+ch25patterns.trash.Glass w:54.0 v:0.23
+ch25patterns.trash.Paper w:22.0 v:0.10
+ch25patterns.trash.Paper w:11.0 v:0.10
+ch25patterns.trash.Glass w:17.0 v:0.23
+ch25patterns.trash.Aluminum w:89.0 v:1.67
+ch25patterns.trash.Paper w:88.0 v:0.10
+ch25patterns.trash.Aluminum w:76.0 v:1.67
+ch25patterns.trash.Cardboard w:96.0 v:0.23
+ch25patterns.trash.Aluminum w:25.0 v:1.67
+ch25patterns.trash.Aluminum w:34.0 v:1.67
+ch25patterns.trash.Glass w:11.0 v:0.23
+ch25patterns.trash.Glass w:68.0 v:0.23
+ch25patterns.trash.Glass w:43.0 v:0.23
+ch25patterns.trash.Aluminum w:27.0 v:1.67
+ch25patterns.trash.Cardboard w:44.0 v:0.23
+ch25patterns.trash.Aluminum w:18.0 v:1.67
+ch25patterns.trash.Paper w:91.0 v:0.10
+ch25patterns.trash.Glass w:63.0 v:0.23
+ch25patterns.trash.Glass w:50.0 v:0.23
+ch25patterns.trash.Glass w:80.0 v:0.23
+ch25patterns.trash.Aluminum w:81.0 v:1.67
+ch25patterns.trash.Cardboard w:12.0 v:0.23
+ch25patterns.trash.Glass w:12.0 v:0.23
+ch25patterns.trash.Glass w:54.0 v:0.23
+ch25patterns.trash.Aluminum w:36.0 v:1.67
+ch25patterns.trash.Aluminum w:93.0 v:1.67
+ch25patterns.trash.Glass w:93.0 v:0.23
+ch25patterns.trash.Paper w:80.0 v:0.10
+ch25patterns.trash.Glass w:36.0 v:0.23
+ch25patterns.trash.Glass w:12.0 v:0.23
+ch25patterns.trash.Glass w:60.0 v:0.23
+ch25patterns.trash.Paper w:66.0 v:0.10
+ch25patterns.trash.Aluminum w:36.0 v:1.67
+ch25patterns.trash.Cardboard w:22.0 v:0.23

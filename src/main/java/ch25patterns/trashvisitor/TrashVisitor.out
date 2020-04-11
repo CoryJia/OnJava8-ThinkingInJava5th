@@ -1,0 +1,81 @@
+/* Output: (First and Last 10 Lines)
+Loading ch25patterns.trashvisitor.Glass
+Loading ch25patterns.trashvisitor.Paper
+Loading ch25patterns.trashvisitor.Aluminum
+Loading ch25patterns.trashvisitor.Cardboard
+value of Glass= 12.420000225305557
+Glass weight = 54.0
+value of Paper= 2.2000000327825546
+Paper weight = 22.0
+value of Paper= 1.1000000163912773
+Paper weight = 11.0
+value of Glass= 3.9100000709295273
+Glass weight = 17.0
+value of Aluminum= 148.62999618053436
+Aluminum weight = 89.0
+value of Paper= 8.800000131130219
+Paper weight = 88.0
+value of Aluminum= 126.91999673843384
+Aluminum weight = 76.0
+value of Cardboard = 22.080000400543213
+Cardboard weight = 96.0
+value of Aluminum= 41.749998927116394
+Aluminum weight = 25.0
+value of Aluminum= 56.779998540878296
+Aluminum weight = 34.0
+value of Glass= 2.5300000458955765
+Glass weight = 11.0
+value of Glass= 15.64000028371811
+Glass weight = 68.0
+value of Glass= 9.89000017940998
+Glass weight = 43.0
+value of Aluminum= 45.089998841285706
+Aluminum weight = 27.0
+value of Cardboard = 10.120000183582306
+Cardboard weight = 44.0
+value of Aluminum= 30.059999227523804
+Aluminum weight = 18.0
+value of Paper= 9.100000135600567
+Paper weight = 91.0
+value of Glass= 14.490000262856483
+Glass weight = 63.0
+value of Glass= 11.500000208616257
+Glass weight = 50.0
+value of Glass= 18.40000033378601
+Glass weight = 80.0
+value of Aluminum= 135.26999652385712
+Aluminum weight = 81.0
+value of Cardboard = 2.7600000500679016
+Cardboard weight = 12.0
+value of Glass= 2.7600000500679016
+Glass weight = 12.0
+value of Glass= 12.420000225305557
+Glass weight = 54.0
+value of Aluminum= 60.11999845504761
+Aluminum weight = 36.0
+value of Aluminum= 155.309996008873
+Aluminum weight = 93.0
+value of Glass= 21.390000388026237
+Glass weight = 93.0
+value of Paper= 8.00000011920929
+Paper weight = 80.0
+value of Glass= 8.280000150203705
+Glass weight = 36.0
+value of Glass= 2.7600000500679016
+Glass weight = 12.0
+value of Glass= 13.800000250339508
+Glass weight = 60.0
+value of Paper= 6.600000098347664
+Paper weight = 66.0
+value of Aluminum= 60.11999845504761
+Aluminum weight = 36.0
+value of Cardboard = 5.060000091791153
+Cardboard weight = 22.0
+Total Aluminum: $860.0499778985977
+Total Paper: $35.80000053346157
+Total Glass: $150.1900027245283
+Total Cardboard: $40.02000072598457
+Total weight Aluminum:515.0
+Total weight Paper:358.0
+Total weight Glass:653.0
+Total weight Cardboard:174.0
